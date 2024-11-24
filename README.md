@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **React-js, Spring-Boot**
 
-- 👨‍💻 All of my projects are available at [https://rkjfitness-app.vercel.app/](https://rkjfitness-app.vercel.app/)
+- 👨‍💻 All of my projects are available at(https://www.ccbp.in/portfolio?uid=b0a03ba6-49dd-4bef-b392-1f303b62b423))](https://www.ccbp.in/portfolio?uid=b0a03ba6-49dd-4bef-b392-1f303b62b423)
 
-- 📝 I regularly write articles on [https://rkjfitness-app.vercel.app/](https://rkjfitness-app.vercel.app/)
+- 📝 I regularly write articles on(https://github.com/Ritiksharmaji)
 
 - 💬 Ask me about **javascript,java**
 
 - 📫 How to reach me **ritiksharma@gmail.com**
 
-- 📄 Know about my experiences [https://rkjfitness-app.vercel.app/](https://rkjfitness-app.vercel.app/)
+- 📄 Know about my experiences (https://www.ccbp.in/portfolio?uid=b0a03ba6-49dd-4bef-b392-1f303b62b423))](https://www.ccbp.in/portfolio?uid=b0a03ba6-49dd-4bef-b392-1f303b62b423)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
