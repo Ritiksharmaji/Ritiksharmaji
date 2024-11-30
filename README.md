@@ -43,7 +43,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ritiksharmaji&show_icons=true&locale=en" alt="ritiksharmaji" />
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=ritiksharmaji&show_icons=true&locale=en" alt="ritiksharmaji" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
