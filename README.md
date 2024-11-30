@@ -1,6 +1,6 @@
+[![MasterHead](./banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ritik sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritiksharmaji&label=Profile%20views&color=0e75b6&style=flat" alt="ritiksharmaji" /> </p>
 
 - 🔭 I’m currently working on [fitness application](https://rkjfitness-app.vercel.app/)
@@ -17,6 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1y8rgirQbhel_N-nj_FvA3Y8ERKr2fMjn/view](https://drive.google.com/file/d/1y8rgirQbhel_N-nj_FvA3Y8ERKr2fMjn/view)
 
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
