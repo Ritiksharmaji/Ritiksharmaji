@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ritiksharma@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1y8rgirQbhel_N-nj_FvA3Y8ERKr2fMjn/view](https://drive.google.com/file/d/1BB1HaQYK4sW0xJWoq8nHvod9t8UZvfJI/view?usp=sharing))
+- 📄 Know about my experiences [Resume]([[https://drive.google.com/file/d/1y8rgirQbhel_N-nj_FvA3Y8ERKr2fMjn/view](https://drive.google.com/file/d/1BB1HaQYK4sW0xJWoq8nHvod9t8UZvfJI/view?usp=sharing)](https://drive.google.com/file/d/1BB1HaQYK4sW0xJWoq8nHvod9t8UZvfJI/view?usp=sharing))
 
 
 
